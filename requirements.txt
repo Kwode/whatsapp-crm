@@ -3,9 +3,10 @@ uvicorn
 pydantic
 pydantic[email]
 sqlalchemy
-supabse
+supabase
 dotenv
 langchain
 langchain-classic
 langchain-community
 langgraph
+psycopg
